@@ -1,7 +1,7 @@
 import type { Guild } from "./guilds";
 
 import { rarityImageFromItems } from "../..";
-import loot from "../../data/loot.json";
+import loot from "../../data/loot/loot.json";
 
 export function useBag(
   id: string,

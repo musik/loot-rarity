@@ -1,6 +1,6 @@
 import type { ColorFn, RarityLevel } from "./types";
 
-import itemsRarity from "../data/items-rarity-hashes.json";
+import itemsRarity from "../data/more-loot/items-rarity-hashes.json";
 import { hashItem } from "./hash-item";
 import rarityLevels from "./rarity-levels";
 

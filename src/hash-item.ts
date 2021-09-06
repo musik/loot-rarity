@@ -7,7 +7,7 @@
 const DICT =
   "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,./:;<=>?@[]^_`{|}~";
 const PAD_CHAR = "¤";
-const HASH_LENGTH = 5;
+const HASH_LENGTH = 7;
 
 function bitwise(str: string) {
   let hash = 0;

@@ -1,5 +1,5 @@
 import { hashItem } from "../src/hash-item";
-import occurences from "../data/occurences.json";
+import occurences from "../data/more-loot/occurences.json";
 import { levelFromOccurences } from "./utils";
 
 type Occurences = Record<string, number>;

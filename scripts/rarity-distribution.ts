@@ -1,4 +1,4 @@
-import occurences from "../data/occurences.json";
+import occurences from "../data/loot/occurences.json";
 import { levelFromOccurences } from "./utils";
 import { rarityDescription, RarityLevel } from "../src";
 import rarityLevels from "../src/rarity-levels";
